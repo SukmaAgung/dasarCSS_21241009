@@ -1,0 +1,13 @@
+body{
+    background-image:url(img/Final_Bracket_Desktop.jpg);
+    background-color:grey;
+}
+
+.a{
+    color: red;
+    text-align: center;
+}
+
+.b{
+    color: purple;
+}
